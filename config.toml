@@ -1,4 +1,4 @@
-baseurl = "xuewen.alecmcgail.com"
+baseurl = "https://username.github.io"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
